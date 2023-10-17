@@ -1,0 +1,15 @@
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\bin\Debug\net7.0\C Programmer on the Beach.exe
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\bin\Debug\net7.0\C Programmer on the Beach.deps.json
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\bin\Debug\net7.0\C Programmer on the Beach.runtimeconfig.json
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\bin\Debug\net7.0\C Programmer on the Beach.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\bin\Debug\net7.0\C Programmer on the Beach.pdb
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\obj\Debug\net7.0\C Programmer on the Beach.csproj.AssemblyReference.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\obj\Debug\net7.0\C Programmer on the Beach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\obj\Debug\net7.0\C Programmer on the Beach.AssemblyInfoInputs.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\obj\Debug\net7.0\C Programmer on the Beach.AssemblyInfo.cs
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\obj\Debug\net7.0\C Programmer on the Beach.csproj.CoreCompileInputs.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\obj\Debug\net7.0\C Programmer on the Beach.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\obj\Debug\net7.0\refint\C Programmer on the Beach.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\obj\Debug\net7.0\C Programmer on the Beach.pdb
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\obj\Debug\net7.0\C Programmer on the Beach.genruntimeconfig.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\C Programmer on the Beach\C Programmer on the Beach\obj\Debug\net7.0\ref\C Programmer on the Beach.dll
